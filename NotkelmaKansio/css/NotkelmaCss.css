@@ -1,0 +1,142 @@
+header{
+	
+	line-height: 50px;
+}
+
+h1{
+	display: block;
+
+	color: #c2d6b7;
+	font-size: 500%;
+	font-family: Ahsing;
+	text-align: center;
+	height: 100px;
+	line-height: 70px;
+	background-color: #FCFFEF ;
+	border-radius: 10px;
+	
+}
+body{
+	background-color: #FCFFEF;
+	//*background-image: url("../img/VRclematis1.jpg");*//
+	margin-left: 50px;
+	margin-right: 50px;
+	
+}
+
+
+a{
+	color: #c2d6b7;
+	
+	text-decoration: none;
+
+	margin-left: 2.5%;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	text-align: center;
+	vertical-align: text-top;
+	display: inline-block;
+	width: 30%;
+	line-height: 50px;
+	font-size: 20px;
+
+	border-radius: 10px;
+	transition: background .5s linear, color .5s linear, transform .5s;
+
+}
+
+
+a.navBar{
+	margin-top: 20px;
+	font-family: Ahsing;
+	font-size: 30px;
+
+}
+
+a.navBar.openPage{
+	background-color: #c2d6b7;
+	color: #FCFFEF;
+}
+
+a.prodpic{
+	height: 90%;
+	font-size: 30px;
+	color: #5B3305;
+
+	font-family: ahsing;
+}
+
+
+a:hover{
+	background-color: #5B3305;
+	color: #FCFFEF;
+	transform: scale(1.05,1.05);
+}
+
+
+img{
+
+	width: 90%;
+	margin: 2.3%;
+	
+
+
+	border-radius: 10px;
+
+}
+
+img.bigPic{
+	width: 40%;
+	margin: 1%;
+		
+}
+img.smallPic{
+	width: 44.5%;
+	transition: background .2s linear, color .2s linear, transform .2s;
+}
+img.smallPic:hover{
+	transform: scale(1.05);
+}
+
+section{
+	background-color: #c2d6b7;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	border-radius: 10px;
+}
+
+
+h2{
+	color: #5B3305;
+	font-family: Ahsing;
+	vertical-align: top;
+}
+
+.closeInfo{
+	display: block;
+	font-size: 200%;
+
+
+
+}
+
+div{
+	vertical-align: top;
+
+	display: inline-block;
+	width: 20%;
+	width: ;
+
+	background-color: #;
+
+	margin: 1%;
+
+}
+
+div.smallPics{
+	
+}
+
+p{
+	font-size: 150%;
+}
